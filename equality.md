@@ -76,27 +76,3 @@ In most cases, using loose equality is discouraged. The result of a comparison u
 1 === '1' // false
 
 ```
-
-```javascript
-
-
-
-```
-
-```javascript
-
-
-
-```
-
-```javascript
-
-
-
-```
-
-```javascript
-
-
-
-```
